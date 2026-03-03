@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-235a73250cc066d3cc9d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "ros2_aruco_interfaces__py",
+					"jsonFile" : "directory-ros2_aruco_interfaces__py-d6155015bdce12e875c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/zak/anveshak/iroc/Iroc-26/ros2_ws/src/build/ros2_aruco_interfaces/ros2_aruco_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "ros2_aruco_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_ros2_aruco_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_ros2_aruco_interfaces_egg-ab6c70b8194c0950d01c.json",
+					"name" : "ament_cmake_python_build_ros2_aruco_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_ros2_aruco_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_ros2_aruco_interfaces-fc4c422e0e588dd14425.json",
+					"name" : "ament_cmake_python_copy_ros2_aruco_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces-e2e16d8aa59b203b3d3a.json",
+					"name" : "ros2_aruco_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__cpp-37b9b937183e88104b47.json",
+					"name" : "ros2_aruco_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ros2_aruco_interfaces__py::@328eb5342238ccd7fe5b",
+					"jsonFile" : "target-ros2_aruco_interfaces__py-bc71e7600e3682fbe1a3.json",
+					"name" : "ros2_aruco_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_generator_c-70a675b8c4ecfa26c73a.json",
+					"name" : "ros2_aruco_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_generator_py-b9b4882558efa720f113.json",
+					"name" : "ros2_aruco_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_c-1536e44c59bf3d977644.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_c__pyext-4ec38e0a0313225a3e44.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_cpp-1311347476581735366c.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c-1e762999823276b44c8f.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c__pyext-304fb2866a17db6d73ee.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cpp-85693a581373fcded30a.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_introspection_c-87723303dbaccfcbc2de.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_introspection_c__pyext-22bedba93354cc5d25d4.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces__rosidl_typesupport_introspection_cpp-ccc8d3d761de974d76a7.json",
+					"name" : "ros2_aruco_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_aruco_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_aruco_interfaces_uninstall-61c163005431faed3349.json",
+					"name" : "ros2_aruco_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-48f803dec1e405602e08.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zak/anveshak/iroc/Iroc-26/ros2_ws/src/build/ros2_aruco_interfaces",
+		"source" : "/home/zak/anveshak/iroc/Iroc-26/ros2_ws/src/ros2_aruco_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
