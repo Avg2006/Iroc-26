@@ -21,11 +21,15 @@ setup(
     maintainer_email='nathan.r.sprague@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
-    tests_require=['pytest'],
     entry_points={
         'console_scripts': [
             'aruco_node = ros2_aruco.aruco_node:main',
-            'aruco_generate_marker = ros2_aruco.aruco_generate_marker:main'
+            'aruco_generate_marker = ros2_aruco.aruco_generate_marker:main',
+            'camera_node = ros2_aruco.pub_cam:main',
+            'cam_info = ros2_aruco.camInfo:main',
         ],
+    },
+    extras_require={
+        'test': ['pytest'],
     },
 )
