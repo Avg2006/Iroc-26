@@ -25,7 +25,9 @@ setup(
     entry_points={
         'console_scripts': [
             'aruco_node = ros2_aruco.aruco_node:main',
-            'aruco_generate_marker = ros2_aruco.aruco_generate_marker:main'
+            'aruco_generate_marker = ros2_aruco.aruco_generate_marker:main',
+            'ros2_webcam = ros2_aruco.ros2_webcam:main',
+            'aruco_subscriber = ros2_aruco.aruco_subscriber:main'
         ],
     },
 )

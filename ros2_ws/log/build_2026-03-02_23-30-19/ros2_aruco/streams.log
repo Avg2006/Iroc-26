@@ -1,0 +1,33 @@
+[0.577s] Invoking command in '/home/zak/anveshak/iroc/Iroc-26/ros2_ws/src/ros2_aruco': PYTHONPATH=/home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_aruco build --build-base /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/build install --record /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/install.log --single-version-externally-managed install_data
+[0.724s] running egg_info
+[0.733s] writing ../../build/ros2_aruco/ros2_aruco.egg-info/PKG-INFO
+[0.734s] writing dependency_links to ../../build/ros2_aruco/ros2_aruco.egg-info/dependency_links.txt
+[0.734s] writing entry points to ../../build/ros2_aruco/ros2_aruco.egg-info/entry_points.txt
+[0.734s] writing requirements to ../../build/ros2_aruco/ros2_aruco.egg-info/requires.txt
+[0.734s] writing top-level names to ../../build/ros2_aruco/ros2_aruco.egg-info/top_level.txt
+[0.749s] reading manifest file '../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+[0.750s] writing manifest file '../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+[0.750s] running build
+[0.750s] running build_py
+[0.750s] copying ros2_aruco/aruco_node.py -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/build/lib/ros2_aruco
+[0.750s] copying ros2_aruco/__init__.py -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/build/lib/ros2_aruco
+[0.750s] copying ros2_aruco/ros2_webcam.py -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/build/lib/ros2_aruco
+[0.750s] copying ros2_aruco/aruco_generate_marker.py -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/build/lib/ros2_aruco
+[0.750s] running install
+[0.754s] running install_lib
+[0.761s] copying /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/build/lib/ros2_aruco/ros2_webcam.py -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/python3.10/site-packages/ros2_aruco
+[0.761s] byte-compiling /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/python3.10/site-packages/ros2_aruco/ros2_webcam.py to ros2_webcam.cpython-310.pyc
+[0.762s] running install_data
+[0.762s] copying resource/ros2_aruco -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/share/ament_index/resource_index/packages
+[0.762s] copying package.xml -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/share/ros2_aruco
+[0.762s] copying launch/aruco_recognition.launch.py -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/share/ros2_aruco/launch
+[0.762s] copying config/aruco_parameters.yaml -> /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/share/ros2_aruco/config
+[0.762s] running install_egg_info
+[0.770s] removing '/home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/python3.10/site-packages/ros2_aruco-0.1.0-py3.10.egg-info' (and everything under it)
+[0.770s] Copying ../../build/ros2_aruco/ros2_aruco.egg-info to /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/python3.10/site-packages/ros2_aruco-0.1.0-py3.10.egg-info
+[0.771s] running install_scripts
+[0.845s] Installing aruco_generate_marker script to /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/ros2_aruco
+[0.845s] Installing aruco_node script to /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/ros2_aruco
+[0.845s] Installing ros2_webcam script to /home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/ros2_aruco
+[0.846s] writing list of installed files to '/home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/install.log'
+[0.875s] Invoked command in '/home/zak/anveshak/iroc/Iroc-26/ros2_ws/src/ros2_aruco' returned '0': PYTHONPATH=/home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zak/anveshak/iroc/Iroc-26/ros2_ws/install/ros2_aruco/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_aruco build --build-base /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/build install --record /home/zak/anveshak/iroc/Iroc-26/ros2_ws/build/ros2_aruco/install.log --single-version-externally-managed install_data

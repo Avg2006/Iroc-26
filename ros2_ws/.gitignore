@@ -1,0 +1,8 @@
+# Ignore VS Code internal databases and settings
+.vscode/
+ros2_ws/src/.vscode/
+
+# Ignore ROS 2 build artifacts (crucial for your workspace!)
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
